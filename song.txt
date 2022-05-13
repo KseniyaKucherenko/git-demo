@@ -1,7 +1,10 @@
-Qui entre dans l’histoire
+﻿Qui entre dans l’histoire
 Entre dans le noir
 Histoire d’y voir
 Mon plus beau geste
+
+делаем ветку 
+
 
 J’ai un pillow du soir
 Un pillow de star
@@ -77,3 +80,5 @@ Donne-moi le « la »
 Lalalala
 Lalalala
 Appelle-moi
+
+Call me
